@@ -1,0 +1,16 @@
+D:\cdac\c#.net\VS\Calci\Calci\obj\Debug\net8.0-windows\Calci.Form1.resources
+D:\cdac\c#.net\VS\Calci\Calci\obj\Debug\net8.0-windows\Calci.csproj.GenerateResource.cache
+D:\cdac\c#.net\VS\Calci\Calci\obj\Debug\net8.0-windows\Calci.GeneratedMSBuildEditorConfig.editorconfig
+D:\cdac\c#.net\VS\Calci\Calci\obj\Debug\net8.0-windows\Calci.AssemblyInfoInputs.cache
+D:\cdac\c#.net\VS\Calci\Calci\obj\Debug\net8.0-windows\Calci.AssemblyInfo.cs
+D:\cdac\c#.net\VS\Calci\Calci\obj\Debug\net8.0-windows\Calci.csproj.CoreCompileInputs.cache
+D:\cdac\c#.net\VS\Calci\Calci\bin\Debug\net8.0-windows\Calci.exe
+D:\cdac\c#.net\VS\Calci\Calci\bin\Debug\net8.0-windows\Calci.deps.json
+D:\cdac\c#.net\VS\Calci\Calci\bin\Debug\net8.0-windows\Calci.runtimeconfig.json
+D:\cdac\c#.net\VS\Calci\Calci\bin\Debug\net8.0-windows\Calci.dll
+D:\cdac\c#.net\VS\Calci\Calci\bin\Debug\net8.0-windows\Calci.pdb
+D:\cdac\c#.net\VS\Calci\Calci\obj\Debug\net8.0-windows\Calci.dll
+D:\cdac\c#.net\VS\Calci\Calci\obj\Debug\net8.0-windows\refint\Calci.dll
+D:\cdac\c#.net\VS\Calci\Calci\obj\Debug\net8.0-windows\Calci.pdb
+D:\cdac\c#.net\VS\Calci\Calci\obj\Debug\net8.0-windows\Calci.genruntimeconfig.cache
+D:\cdac\c#.net\VS\Calci\Calci\obj\Debug\net8.0-windows\ref\Calci.dll
